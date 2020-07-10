@@ -1,0 +1,29 @@
+div {
+  margin-top: 20px;
+}
+
+h5 {
+  color: #4285f4;
+  font-size: 40px;
+  margin-top: 350px;
+  margin-left: 20px;
+  margin-right: 50px;
+  font-weight: bold;
+}
+
+p {
+  color: #4285f4;
+  font-size: 30px;
+  margin-left: 20px;
+  margin-right: 300px;
+  font-weight: bold;
+}
+
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}

@@ -1,0 +1,28 @@
+h1 {
+  color: #4285f4;
+  font-size: 40px;
+  margin-top: 40px;
+  margin-left: 120px;
+  font-weight: bold;
+}
+
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+.col-7 {
+  width: 450px;
+  height: 600px;
+  
+}
+
+.col-5 {
+  margin-left: 500px;
+  width: 250px;
+  height: 300px;
+}

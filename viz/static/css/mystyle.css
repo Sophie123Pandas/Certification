@@ -1,0 +1,25 @@
+body {
+  background-color: #4285f4;
+  margin-left: 400px;
+}
+
+h1 {
+  color: navy;
+  font-size: 60px;
+  font-family: Raleway;
+  margin-left: 20px;
+}
+
+h2 {
+  color: navy;
+  font-size: 40px;
+  font-family: Raleway;
+  margin-left: 20px;
+}
+
+a {
+  color: black;
+  font-size: 30px;
+  margin-left: 150px;
+  
+}

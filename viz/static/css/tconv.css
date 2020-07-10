@@ -1,0 +1,30 @@
+h5 {
+  color: #4285f4;
+  font-size: 40px;
+  margin-top: 180px;
+  
+  margin-right: 50px;
+  font-weight: bold;
+}
+
+p {
+  color: #4285f4;
+  font-size: 30px;
+  
+  margin-right: 50px;
+  font-weight: bold;
+}
+
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+img.resize {
+  max-width:50%;
+  max-height:50%;
+}
