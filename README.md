@@ -32,3 +32,25 @@ Les données sont mises à disposition dans Kaggle par google et proviennent de 
 
 https://www.kaggle.com/c/ga-customer-revenue-prediction/data
 Le jeu de données utilisé : test_v2.csv(7.09 GB)
+
+
+# Cahier des charges
+
+Enjeux : 
+Intégrer l’information client provenant du site web pour partager les indicateurs de performance au sein de l'entreprise.
+
+Stratégie :
+    • Historiser toutes les données de navigation et de transaction. 
+    • Constituer une base relationnelle client : données structurées avec un schéma établi et des valeurs normalisées.
+    • Fournir un outil de visualisation des indicateurs de performance 
+
+Résultats :
+Les informations attendues pour analyser les performances et les leviers d’action sont :
+    • Nombre de sessions, tendance, pics de trafic
+    • Canaux d’acquisition de trafic*
+    • Taux de conversion (taux moyen : 3%), tendance, selon la source / la durée de session
+    • Taux de rebond (doit être inférieur à 50%), tendance, analyse par source
+    • Durée de session, analyse par source
+    • Nombre de pages visitées, analyse par source
+    • Top 5 des pages produit visitées
+    • Provenance géographique
